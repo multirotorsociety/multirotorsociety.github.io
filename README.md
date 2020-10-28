@@ -1,4 +1,4 @@
-# New Multi Rotor Club website redone using jekyll
+# New Multi Rotor Club website
 
 Multi Rotor Club, SUTD is 5th Row Club at SUTD (Singapore University of Technology and Design).
 We are a club that deals in many types remote controlled (RC) vehicles such as drones, cars and boats, although 
