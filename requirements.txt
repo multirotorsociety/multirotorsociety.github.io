@@ -1,0 +1,4 @@
+# Required Packages
+mkdocs
+mkdocs-material
+pymdown-extensions
