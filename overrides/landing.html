@@ -3,14 +3,22 @@
     {{ super() }}
     <div class="md-container" data-md-component="container">
         <main class="md-main" data-md-component="main">
-            <div class="md-content" style="margin:auto;">
-                <article class="md-content__inner md-typeset" style>
-                    {{ page.content }}
-                </article>
+            <div class="md-content" style="margin:auto;height:100%">
+                <div class="md-content__inner md-typeset">
+                    <figure style="padding: 15px">
+                        <img src="assets/images/asset_1.png" width=65% draggable="false">
+                    </figure>
+                    <div style="text-align:center">
+                        <h1 style="text-align:center">Multi Rotor Club, SUTD</h1>
+                        <h2 style="text-align:center">BUILD.DESIGN.FLY</h2>
+                        <p>A 5th Row Student Club at SUTD (Singapore University of Technology and Design)</p>
+                    </div>
+                    <div style="text-align:center;margin:auto">
+                        <a class="md-button" href="#who-are-we">Get to know us more</a>
+                        <a class="md-button md-button--primary">Our Club Documentation</a>
+                    </div>
+                </div>
             </div>
         </main>
     </div>
 {% endblock %}
-{% block site_nav %}{% endblock %}
-{% block content %}{% endblock %}
-{% block footer %}{% endblock %}
