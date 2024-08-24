@@ -1,6 +1,7 @@
 baseURL: https://multirotorsociety.github.io/
 languageCode: en-us
 title: Multirotor Society (MRS), SUTD
+enableInlineShortcodes: true
 module:
   imports:
     - path: github.com/imfing/hextra

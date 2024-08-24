@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/basics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/basics/components/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/advanced/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/competitions/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -10,6 +18,10 @@
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/advanced/ros/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/advanced/ros/week1/</loc>
   </url>
 </urlset>

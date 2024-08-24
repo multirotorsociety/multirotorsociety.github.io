@@ -4,6 +4,8 @@ toc: false
 
 # Build. Design. Fly.
 
+![banner](cat_e.jpeg "Photo from SAFMC 2024 Category E")
+
 Multirotor Society (MRS) is a Student Organisation at the Singapore University of Technology and Design (SUTD).
 
 ### About Us
