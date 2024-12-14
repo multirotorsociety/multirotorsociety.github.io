@@ -4,9 +4,12 @@ title: MRS Knowledge Base
 linkTitle: Documentaion
 ---
 
-This is where where we write documentation on various topics for future batches of club members as we work on projects
+The base of a drone swarm is typically referred to as the "ground station" or "__base station__". This is the central control system that coordinates the swarm, handling communication, and mission planning.
+Just like a __base station__, the documentation here is intended to help members coordinate, communicate and plan their journey in the world of drones.
 
-## For Newcomers
+You can navigate to a specific topic by clicking the cards below or by using the navigation bar on the left.
+
+## For Beginners
 
 An introductory guide to multi rotors for newcomers can be found here.
 
